@@ -181,6 +181,4 @@ else:
 Thus, a Python program is developed to evaluate the given policy.
 
 
-## RESULT:
-Thus, a Python program is developed to evaluate the given policy.
 
